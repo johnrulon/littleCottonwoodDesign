@@ -39,6 +39,15 @@ li a:hover, a:active{
 p{
     font-family: 'Nixie One', cursive;
 }
+.services-description{
+    font-family: 'Nixie One', cursive;
+    font-size: 1em;
+    display: block;
+    position: relative;
+    width: 400px;
+    margin: 0px auto;
+    text-align: center;
+}
 /*Boxed Heading*/
 .welcome-statement{
     margin: 100px auto 0 auto;
@@ -50,7 +59,7 @@ h4{
     display: block;
     position: relative;
     width: 150px;
-    margin: 20px auto 200px auto;
+    margin: 20px auto 0px auto;
 }
 .border{
     border: solid;
